@@ -4,6 +4,8 @@
 
 ##### This is a work in progress rn...
 
+![Mannan's github stats](https://github-readme-stats.vercel.app/api?username=sabdulm&show_icons=true&count_private=true)
+
 <!--
 **sabdulm/sabdulm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
