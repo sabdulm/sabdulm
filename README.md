@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![Here is my personal wesbite](sabdulm.github.io)
+[Here is my personal wesbite](sabdulm.github.io)
 
 ![Mannan's github stats](https://github-readme-stats.vercel.app/api?username=sabdulm&show_icons=true&count_private=true&theme=vue)
 
