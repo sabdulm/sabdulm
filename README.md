@@ -1,4 +1,4 @@
-![Fort Collins](https://raw.githubusercontent.com/sabdulm/sabdulm/main/FortCollinsbanner.jpg)
+<!-- ![Fort Collins](https://raw.githubusercontent.com/sabdulm/sabdulm/main/FortCollinsbanner.jpg) -->
 
 ### Hi there 👋
 
