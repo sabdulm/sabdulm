@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-You can find my personal website <a href="https://sheikhmannan.me">here</a>
+You can find my personal website <a href="https://sheikhmannan.com">here</a>
 
 
 ![Mannan's github stats](https://github-readme-stats.vercel.app/api?username=sabdulm&show_icons=true&count_private=true&theme=vue)
